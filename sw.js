@@ -1,6 +1,6 @@
 // Seth and Friends service worker
 // Bump VERSION on every release so players get the new build.
-const VERSION = 'v3';
+const VERSION = 'v4';
 const CORE = `sf-core-${VERSION}`;
 const RUNTIME = 'sf-runtime'; // fonts etc., kept across versions
 
